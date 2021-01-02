@@ -1,0 +1,14 @@
+<browserdata>
+    <lastupdate>1609547938</lastupdate>
+    <whitelistrev>5</whitelistrev>
+    <blacklistrev></blacklistrev>
+    <globalwhitelist>
+        <url>forum.mtasa.com</url>
+        <url>community.mtasa.com</url>
+        <url>ssl.gstatic.com</url>
+        <url></url>
+    </globalwhitelist>
+    <globalblacklist></globalblacklist>
+    <customblacklist></customblacklist>
+    <customwhitelist></customwhitelist>
+</browserdata>

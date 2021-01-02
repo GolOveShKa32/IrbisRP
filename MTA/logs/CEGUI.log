@@ -1,0 +1,267 @@
+02/01/2021 05:38:45 (InfL1)	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+02/01/2021 05:38:45 (InfL1)	+                     Crazy Eddie's GUI System - Event log                    +
+02/01/2021 05:38:45 (InfL1)	+                          (http://www.cegui.org.uk/)                         +
+02/01/2021 05:38:45 (InfL1)	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+02/01/2021 05:38:45 (InfL1)	CEGUI::Logger singleton created.
+02/01/2021 05:38:45 (InfL1)	---- Begining CEGUI System initialisation ----
+02/01/2021 05:38:45 (InfL1)	CEGUI::ImagesetManager singleton created
+02/01/2021 05:38:45 (InfL1)	CEGUI::FontManager singleton created.
+02/01/2021 05:38:45 (InfL1)	CEGUI::WindowFactoryManager singleton created
+02/01/2021 05:38:45 (InfL1)	CEGUI::WindowManager singleton created
+02/01/2021 05:38:45 (InfL1)	CEGUI::SchemeManager singleton created.
+02/01/2021 05:38:45 (InfL1)	CEGUI::MouseCursor singleton created.
+02/01/2021 05:38:45 (InfL1)	CEGUI::GlobalEventSet singleton created.
+02/01/2021 05:38:45 (InfL1)	CEGUI::WidgetLookManager singleton created.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'DefaultWindow' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'DragContainer' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'ScrolledContainer' windows added.
+02/01/2021 05:38:45 (InfL1)	Window type alias named 'DefaultGUISheet' added for window type 'DefaultWindow'.
+02/01/2021 05:38:45 (InfL1)	CEGUI::System singleton created.
+02/01/2021 05:38:45 (InfL1)	---- CEGUI System initialisation completed ----
+02/01/2021 05:38:45 (InfL1)	---- Version 0.4.1 ----
+02/01/2021 05:38:45 (InfL1)	---- Renderer module is: CEGUI::DirectX81Renderer - Official Direct3D 9 based renderer module for CEGUI ----
+02/01/2021 05:38:45 (InfL1)	---- XML Parser module is: CEGUI::TinyXMLParser - Official tinyXML based parser module for CEGUI ----
+02/01/2021 05:38:45 (InfL1)	---- Scripting module is: None ----
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'unifont' using the font file 'cgui/unifont-5.1.20080907.ttf' and a size of 9.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'default-normal' using the font file 'C:\Windows\fonts\tahoma.ttf' and a size of 9.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'default-small' using the font file 'C:\Windows\fonts\tahoma.ttf' and a size of 7.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'default-small_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'default-bold-small' using the font file 'C:\Windows\fonts\tahomabd.ttf' and a size of 8.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'default-bold-small_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'clear-normal' using the font file 'C:\Windows\fonts\verdana.ttf' and a size of 9.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'clear-normal_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'sa-header' using the font file 'cgui/saheader.ttf' and a size of 26.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'sa-header_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'sa-gothic' using the font file 'cgui/sagothic.ttf' and a size of 47.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'sa-gothic_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Font 'sans' using the font file 'cgui/sans.ttf' and a size of 9.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'sans_auto_glyph_images_default' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to load Scheme from file 'CGUI.xml'.
+02/01/2021 05:38:45 (InfL1)	Attempting to create an Imageset from the information specified in file 'CGUI.is.xml'.
+02/01/2021 05:38:45 (InfL1)	===== Falagard 'root' element: look and feel parsing begins =====
+02/01/2021 05:38:45 (InfL1)	===== Look and feel parsing completed =====
+02/01/2021 05:38:45 (InfL1)	No window factories specified for module 'CEGUIFalagardBase' - adding all available factories...
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Button' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Checkbox' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/ComboDropList' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Combobox' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Editbox' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/FrameWindow' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/ListHeader' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/ListHeaderSegment' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Listbox' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Menubar' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/MenuItem' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/MultiColumnList' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/MultiLineEditbox' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/PopupMenu' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/ProgressBar' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/RadioButton' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/ScrollablePane' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Scrollbar' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Slider' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Spinner' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/StaticImage' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/StaticText' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/SystemButton' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/TabButton' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/TabControl' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/TabPane' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Thumb' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Titlebar' windows added.
+02/01/2021 05:38:45 (InfL1)	WindowFactory for 'Falagard/Tooltip' windows added.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/Titlebar' using base type 'Falagard/Titlebar' and LookN'Feel 'CGUI/Titlebar'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/Button' using base type 'Falagard/Button' and LookN'Feel 'CGUI/Button'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/FrameWindow' using base type 'Falagard/FrameWindow' and LookN'Feel 'CGUI/FrameWindow'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/Editbox' using base type 'Falagard/Editbox' and LookN'Feel 'CGUI/Editbox'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/VerticalScrollbarThumb' using base type 'Falagard/Thumb' and LookN'Feel 'CGUI/VerticalScrollbarThumb'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/VerticalScrollbar' using base type 'Falagard/Scrollbar' and LookN'Feel 'CGUI/VerticalScrollbar'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/HorizontalScrollbarThumb' using base type 'Falagard/Thumb' and LookN'Feel 'CGUI/HorizontalScrollbarThumb'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/HorizontalScrollbar' using base type 'Falagard/Scrollbar' and LookN'Feel 'CGUI/HorizontalScrollbar'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/StaticImage' using base type 'Falagard/StaticImage' and LookN'Feel 'CGUI/StaticImage'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/StaticText' using base type 'Falagard/StaticText' and LookN'Feel 'CGUI/StaticText'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/MultiLineEditbox' using base type 'Falagard/MultiLineEditbox' and LookN'Feel 'CGUI/MultiLineEditbox'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/MultiColumnList' using base type 'Falagard/MultiColumnList' and LookN'Feel 'CGUI/MultiColumnList'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ListHeader' using base type 'Falagard/ListHeader' and LookN'Feel 'CGUI/ListHeader'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ListHeaderSegment' using base type 'Falagard/ListHeaderSegment' and LookN'Feel 'CGUI/ListHeaderSegment'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/TabButton' using base type 'Falagard/TabButton' and LookN'Feel 'CGUI/TabButton'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/TabControl' using base type 'Falagard/TabControl' and LookN'Feel 'CGUI/TabControl'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/TabPane' using base type 'Falagard/TabPane' and LookN'Feel 'CGUI/TabPane'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ProgressBar' using base type 'Falagard/ProgressBar' and LookN'Feel 'CGUI/ProgressBar'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/Checkbox' using base type 'Falagard/Checkbox' and LookN'Feel 'CGUI/Checkbox'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/RadioButton' using base type 'Falagard/RadioButton' and LookN'Feel 'CGUI/RadioButton'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ScrollablePane' using base type 'Falagard/ScrollablePane' and LookN'Feel 'CGUI/ScrollablePane'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ComboDropList' using base type 'Falagard/ComboDropList' and LookN'Feel 'CGUI/ComboDropList'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ComboEditbox' using base type 'Falagard/Editbox' and LookN'Feel 'CGUI/ComboEditbox'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/Combobox' using base type 'Falagard/Combobox' and LookN'Feel 'CGUI/Combobox'.
+02/01/2021 05:38:45 (InfL1)	Creating falagard mapping for type 'CGUI/ImageButton' using base type 'Falagard/Button' and LookN'Feel 'CGUI/ImageButton'.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset '1' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset '4' with texture only.
+02/01/2021 05:38:45 (InfL1)	Attempting to create Imageset 'b' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset 'b7' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset 'ca' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset 'dd' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset 'f0' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '15a' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '15d' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '160' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '165' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '16a' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '16f' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '173' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '177' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '17c' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '18b' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '190' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '195' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '199' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '19d' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1a2' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1b1' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1b6' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1bb' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1bf' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1c3' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1c8' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1d8' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1dd' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1e2' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1e6' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1ea' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '1ef' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '201' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '204' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '207' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '20a' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '20d' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '210' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '213' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '232' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '235' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '238' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '23c' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '23f' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '242' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '245' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '248' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '24b' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '24e' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '251' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '254' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '257' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '25a' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '25d' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '26e' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '274' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '279' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '27e' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '283' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '288' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '28d' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '292' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '297' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '29c' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2a1' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2a6' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2ab' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2b0' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2b5' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2ba' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2bf' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2c4' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2c9' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2ce' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2d3' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2d8' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2dd' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2e2' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2e7' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2ec' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2f1' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2f6' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '2fb' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '300' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '305' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '30a' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset '30f' with texture only.
+02/01/2021 05:38:46 (InfL1)	Attempting to create Imageset 'default-bold-small_auto_glyph_images_1024' with texture only.
+02/01/2021 05:38:46 (InfL1)	Loaded glyph page 1024 for Font 'default-bold-small'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_128' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 128 for Font 'default-normal'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_256' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 256 for Font 'default-normal'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_896' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 896 for Font 'default-normal'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_1024' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 1024 for Font 'default-normal'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_7808' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 7808 for Font 'default-normal'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-normal_auto_glyph_images_65152' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 65152 for Font 'default-normal'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'default-small_auto_glyph_images_1024' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 1024 for Font 'default-small'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_19968' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 19968 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_20224' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 20224 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_25984' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 25984 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_26368' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 26368 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_31616' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 31616 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_32256' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 32256 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_35456' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 35456 for Font 'unifont'
+02/01/2021 05:38:47 (InfL1)	Attempting to create Imageset 'unifont_auto_glyph_images_39552' with texture only.
+02/01/2021 05:38:47 (InfL1)	Loaded glyph page 39552 for Font 'unifont'
+02/01/2021 05:38:52 (InfL1)	Attempting to create Imageset '317' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '31f' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '322' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '325' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '328' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '32b' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '32e' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '331' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '334' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '337' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '33a' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '340' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '343' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '346' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '349' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '34c' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '34f' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '352' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '355' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '358' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '35b' with texture only.
+02/01/2021 05:38:53 (InfL1)	Attempting to create Imageset '35f' with texture only.
+02/01/2021 05:40:48 (InfL1)	---- Begining CEGUI System destruction ----
+02/01/2021 05:40:49 (InfL1)	---- Begining cleanup of GUI Scheme system ----
+02/01/2021 05:40:49 (InfL1)	Scheme 'CGUI-Skin' has been unloaded.
+02/01/2021 05:40:49 (InfL1)	CEGUI::SchemeManager singleton destroyed.
+02/01/2021 05:40:49 (InfL1)	CEGUI::WindowManager singleton destroyed
+02/01/2021 05:40:49 (InfL1)	CEGUI::WindowFactoryManager singleton destroyed
+02/01/2021 05:40:49 (InfL1)	CEGUI::WidgetLookManager singleton destroyed.
+02/01/2021 05:40:49 (InfL1)	---- Begining cleanup of Font system ----
+02/01/2021 05:40:49 (InfL1)	Font 'clear-normal' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'default-bold-small' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'default-normal' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'default-small' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'sa-gothic' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'sa-header' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'sans' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	Font 'unifont' has been destroyed.
+02/01/2021 05:40:49 (InfL1)	CEGUI::FontManager singleton destroyed.
+02/01/2021 05:40:49 (InfL1)	CEGUI::MouseCursor singleton destroyed.
+02/01/2021 05:40:49 (InfL1)	---- Begining cleanup of Imageset system ----
+02/01/2021 05:40:49 (InfL1)	CEGUI::ImagesetManager singleton destroyed
+02/01/2021 05:40:49 (InfL1)	CEGUI::GlobalEventSet singleton destroyed.
+02/01/2021 05:40:49 (InfL1)	CEGUI::System singleton destroyed.
+02/01/2021 05:40:49 (InfL1)	---- CEGUI System destruction completed ----
+02/01/2021 05:40:49 (InfL1)	CEGUI::Logger singleton destroyed.

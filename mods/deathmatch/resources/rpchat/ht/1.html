@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<meta charset="UTF-8">
+		<title>EditBox</title>
+
+		<style>
+
+			body { 
+
+				margin: 0; /* Убираем отступы */
+				
+			}
+
+			.editbox {
+
+				width: 100px; /* Устанавливает ширину */
+				height: 100px; /* Устанавливает высоту */
+				color: #FFFFFF; /* Устанавливает цвет шрифта */
+				background: #000000; /* Устанавливает цвет строки ввода */
+				border: 0px solid #000000; /* Устанавливает цвет и размер рамки вокруг строки ввода */
+				font-family: Arial;
+
+			}
+
+			/* Устанавливает цвет выделения текста */
+			/* 
+			input::selection {
+
+				background: #F4A460; 
+
+			} 
+			*/
+
+			.editbox:focus {
+
+				outline: none; /* Убирает голубую обводку после нажатия на окно ввода */
+
+			}
+
+		</style>
+
+		<script>
+
+        	var eventName
+			/* Функция передаёт значение после нажатия на Enter */
+			function getInfo() {
+
+				var text = document.getElementById( "EditBox" ).value
+				mta.triggerEvent( eventName, text )
+				document.getElementById( "EditBox" ).value = ""
+				
+			}
+
+			/* Отключает стрелку вверх и вниз */
+			document.onkeydown = function( e ) {
+
+  				var n = ( window.Event ) ? e.which : e.keyCode;
+  				if ( n == 38 || n == 40 ) 
+  					return false;
+
+			}
+
+		</script>
+
+	</head>
+
+	<body>
+
+		<input type = "text" class = "editbox" maxlength = "100" id = "EditBox" Value = "" spellcheck = "false" > 
+
+	</body>
+
+</html>

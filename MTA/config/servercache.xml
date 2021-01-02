@@ -1,0 +1,5 @@
+<root>
+    <internet_servers11>
+        <server bKeepFlag="0" bPassworded="0" flags="0" httpPort="22552" ip="217.106.106.107" nMaxPlayers="50" nPing="173" nPlayers="0" port="22052" strGameMode="Cloud Studio  V1.0" strMap="None" strName="IrbisRP" strVersion="1.5" uiNoReplyCount="0">217.106.106.107</server>
+    </internet_servers11>
+</root>

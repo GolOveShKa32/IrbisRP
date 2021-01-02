@@ -1,0 +1,69 @@
+#Item Definition File created by MapEditor
+objs
+3975, u1, u1, 299, 0
+3976, u1lod, u1lod, 3000, 0
+3977, u2, u2, 299, 0
+3978, u2lod, u2lod, 3000, 0
+3979, u3, u3, 299, 0
+3980, u3lod, u3lod, 3000, 0
+3981, u4, u4, 299, 0
+3982, u4lod, u4lod, 3000, 0
+3983, u5, u5, 299, 0
+3984, u5lod, u5lod, 3000, 0
+3985, u6, u6, 299, 0
+3986, u6lod, u6lod, 3000, 0
+3987, u7, u7, 299, 0
+3988, u7lod, u7lod, 3000, 0
+3991, u11, u11, 299, 0
+3992, u11lod, u11lod, 3000, 0
+3993, u9, u9, 299, 0
+3994, u9lod, u9lod, 3000, 0
+3995, u10, u10, 299, 0
+3996, u10lod, u10lod, 3000, 0
+3997, u12, u12, 299, 0
+3998, u12lod, u12lod, 3000, 0
+3999, doorvc, doorvc, 299, 0
+4000, doorvb, doorvb, 299, 0
+4001, busstationu, busstationu, 299, 0
+4002, busstationulod, busstationulod, 3000, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

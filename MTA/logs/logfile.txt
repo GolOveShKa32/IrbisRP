@@ -1,0 +1,202 @@
+05:38:18 - [DEBUG] BeginEventLog
+05:38:18 - [DEBUG] DLL_PROCESS_ATTACH 00000000
+05:38:18 - [DEBUG] Localization set to 'ru'
+05:38:19 - [DEBUG] AV health: poor (2)
+05:38:19 - [DEBUG] AV Searched 68 dlls, but could not find av helper
+05:38:19 - [DEBUG] AV Searched processes, but could not find av helper
+05:38:19 - [DEBUG] D3DStuff -------------------------
+05:38:19 - [DEBUG] D3DStuff - Direct3DCreate9: 0x00b307e0
+05:38:19 - [DEBUG] D3DStuff - 1 Adapters
+05:38:19 - [DEBUG] D3DStuff 0 Identifier -     Driver:nvd3dum.dll
+05:38:19 - [DEBUG]     Description:NVIDIA GeForce GT 630
+05:38:19 - [DEBUG]     DeviceName:\\.\DISPLAY1
+05:38:19 - [DEBUG]     DriverVersion:0x00170015 0x000d23af
+05:38:19 - [DEBUG]     VendorId:0x000010de  DeviceId:0x00000f00  SubSysId:0x0f001569  Revision:0x000000a1  WHQLLevel:0x00000000
+05:38:19 - [DEBUG]     DeviceIdentifier:d7b71e3e-4c40-11cf-7655-0d2f1bc2da35
+05:38:19 - [DEBUG] D3DStuff 0 DisplayMode -  Width:1600 Height:900 RefreshRate:60 Format:22
+05:38:19 - [DEBUG] D3DStuff 0  hMonitor:0x00010001  ModeCount:20
+05:38:19 - [DEBUG] D3DStuff 0 Caps9 -  VertexShaderVersion:0xfffe0300 PixelShaderVersion:0xffff0300 DeclTypes:0x30f 
+05:38:19 - [DEBUG] NvAPI - InterfaceVersion:'NVidia Complete Version 1.10' DriverVersion:391.35 Branch:'r391_33'
+05:38:19 - [DEBUG] NvAPI - GPU 0/1 - SystemType:2 GpuType:2 (GeForce GT 630)
+05:38:19 - [DEBUG] general.progress-animation-disable:  
+05:38:19 - [DEBUG] general.aero-enabled: 1 
+05:38:19 - [DEBUG] general.aero-changeable: 1 
+05:38:19 - [DEBUG] general.driver-overrides-disabled:  
+05:38:19 - [DEBUG] general.device-selection-disabled: 0 
+05:38:19 - [DEBUG] general.customized-sa-files-using: 0 
+05:38:19 - [DEBUG] general.times-connected:  
+05:38:19 - [DEBUG] general.times-connected-editor:  
+05:38:19 - [DEBUG] nvhacks.nvidia: 1 
+05:38:19 - [DEBUG] nvhacks.optimus-force-detection:  
+05:38:19 - [DEBUG] nvhacks.optimus-export-enablement: 0 
+05:38:19 - [DEBUG] nvhacks.optimus: 0 
+05:38:19 - [DEBUG] nvhacks.optimus-rename-exe: 0 
+05:38:19 - [DEBUG] nvhacks.optimus-alt-startup: 0 
+05:38:19 - [DEBUG] nvhacks.optimus-force-windowed: 0 
+05:38:19 - [DEBUG] nvhacks.optimus-dialog-skip:  
+05:38:19 - [DEBUG] nvhacks.optimus-startup-option:  
+05:38:19 - [DEBUG] watchdog.L0: 1 SECTION_NOT_CLEAN_GTA_EXIT
+05:38:19 - [DEBUG] watchdog.L1: 1 SECTION_NOT_STARTED_ONLINE_GAME
+05:38:19 - [DEBUG] diagnostics.send-dumps: yes 
+05:38:19 - [DEBUG] general.noav-user-says-skip: 1 
+05:38:19 - [DEBUG] general.noav-last-asked-time: 447096 
+05:38:19 - [DEBUG] noav-last-asked-time-hours-delta: 0
+05:38:19 - [DEBUG] Loader - Process created: C:\Program Files\IrbisRP\GTA\gta_sa.exe 136FF679538089940751266D36BEBE12
+05:38:19 - [DEBUG] Loader - Process ID: 5724, Thread ID: 4796
+05:38:19 - [DEBUG] Loader - InsertWinMainBlock
+05:38:19 - [DEBUG] Loader - ApplyLoadingCrashPatch
+05:38:41 - [DEBUG] DLL_PROCESS_ATTACH 00000000
+05:38:41 - [DEBUG] ModuleFileName: C:\Program Files\IrbisRP\GTA\gta_sa.exe
+05:38:41 - [DEBUG] Loading xml
+05:38:41 - [DEBUG] XML loaded.
+05:38:41 - [DEBUG] XML initialized.
+05:38:41 - [DEBUG] Localization set to 'ru'
+05:38:41 - [DEBUG] CCommands::CCommands
+05:38:41 - [DEBUG] CCore::CCore
+05:38:41 - [DEBUG] CDirect3DHookManager::CDirect3DHookManager
+05:38:41 - [DEBUG] CDirectInputHookManager::CDirectInputHookManager
+05:38:41 - [DEBUG] CMessageLoopHook::CMessageLoopHook
+05:38:41 - [DEBUG] CSetCursorPosHook::CSetCursorPosHook
+05:38:41 - [DEBUG] CCore::ApplyHooks
+05:38:41 - [DEBUG] CDirectInputHook8::CDirectInputHook8
+05:38:41 - [DEBUG] Loader - RemoveWinMainBlock
+05:38:41 - [DEBUG] Loader - Core injected: C:\Program Files\IrbisRP\mta\core.dll
+05:38:41 - [DEBUG] Loader - Waiting for L3 to close
+05:38:41 - [DEBUG] DirectInput8 ANSI Interface Created.
+05:38:41 - [DEBUG] CProxyDirectInput8::CProxyDirectInput8 0197c330
+05:38:41 - [DEBUG] CProxyDirectInputDevice8::CProxyDirectInputDevice8 01911e10
+05:38:41 - [DEBUG] CCore::ApplyHooks2
+05:38:41 - [DEBUG] CDirect3DHookManager::ApplyHook
+05:38:41 - [DEBUG] CDirect3DHook9::CDirect3DHook9
+05:38:41 - [DEBUG] Direct3D9 hook applied 01920148
+05:38:41 - [DEBUG]    CProxyDirectInputDevice8 Device:04bbe864  Type:0x12  SubType:0x1  HID:0x0  ProductName:Мышь
+05:38:41 - [DEBUG] Loading network
+05:38:41 - [DEBUG] Network loaded.
+05:38:45 - [DEBUG] Network initialized.
+05:38:45 - [DEBUG] Loading game
+05:38:45 - [DEBUG] Game loaded.
+05:38:45 - [DEBUG] Game initialized.
+05:38:45 - [DEBUG] Loading multiplayer
+05:38:45 - [DEBUG] Multiplayer loaded.
+05:38:45 - [DEBUG] Multiplayer initialized.
+05:38:45 - [DEBUG] Loading gui
+05:38:45 - [DEBUG] GUI loaded.
+05:38:45 - [DEBUG] D3DXCheckVersion success (D3D_SDK_VERSION: 32  D3DX_SDK_VERSION: 42  SDKVersion: 31)
+05:38:45 - [DEBUG] Calling Direct3DCreate9
+05:38:45 - [DEBUG] Direct3DCreate9 succeded
+05:38:45 - [DEBUG] CProxyDirect3D9::CProxyDirect3D9 06a9eca8
+05:38:45 - [DEBUG] D3DXCheckVersion success (D3D_SDK_VERSION: 32  D3DX_SDK_VERSION: 42  SDKVersion: 31)
+05:38:45 - [DEBUG] Calling Direct3DCreate9
+05:38:45 - [DEBUG] Direct3DCreate9 succeded
+05:38:45 - [DEBUG] CProxyDirect3D9::CProxyDirect3D9 06a9ec88
+05:38:45 - [DEBUG] CProxyDirect3D9::~CProxyDirect3D9 06a9ec88
+05:38:45 - [DEBUG] CProxyDirect3D9::CreateDevice
+05:38:45 - [DEBUG]     Adapter:0  DeviceType:1  BehaviorFlags:0x50
+05:38:45 - [DEBUG]     BackBufferWidth:1600  Height:900  Format:21  Count:1
+05:38:45 - [DEBUG]     MultiSampleType:0  Quality:0
+05:38:45 - [DEBUG]     SwapEffect:2  Windowed:0  EnableAutoDepthStencil:1  AutoDepthStencilFormat:75  Flags:0x0
+05:38:45 - [DEBUG]     FullScreen_RefreshRateInHz:60  PresentationInterval:0x80000000
+05:38:45 - [DEBUG] CProxyDirect3DDevice9::CProxyDirect3DDevice9 06d1ad98 (device: 051591c0)
+05:38:45 - [DEBUG] *** Using adapter: NVIDIA GeForce GT 630 (Mem:1048576 KB, MaxAnisotropy:4)
+05:38:45 - [DEBUG] CDirect3DEvents9::OnDirect3DDeviceCreate
+05:38:45 - [DEBUG] GUI initialized.
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:21: warning: unknown Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:2148: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:2162: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:3218: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:3229: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:3240: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ar/client.po:3251: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/lv/client.po:21: warning: unknown Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/lv/client.po:2131: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/lv/client.po:2142: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/lv/client.po:3202: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/lv/client.po:3210: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/lv/client.po:3218: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ro/client.po:21: warning: unknown Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ro/client.po:2139: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ro/client.po:2150: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ro/client.po:3215: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ro/client.po:3223: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/ro/client.po:3231: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/sl/client.po:21: warning: unknown Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/sl/client.po:2141: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/sl/client.po:2153: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/sl/client.po:3187: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/sl/client.po:3196: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG] Localization: C:\Program Files\IrbisRP\MTA\locale\/sl/client.po:3205: warning: msgstr[N] seen, but no Plural-Forms given: 
+05:38:46 - [DEBUG]     Adapter:0  DeviceType:1  BehaviorFlags:0x40  ReadableDepth:INTZ
+05:38:46 - [DEBUG]     Driver:nvd3dum.dll
+05:38:46 - [DEBUG]     Description:NVIDIA GeForce GT 630
+05:38:46 - [DEBUG]     DeviceName:\\.\DISPLAY1
+05:38:46 - [DEBUG]     DriverVersion:0x00170015 0x000d23af
+05:38:46 - [DEBUG]     VendorId:0x000010de  DeviceId:0x00000f00  SubSysId:0x0f001569  Revision:0x000000a1  WHQLLevel:0x00000000
+05:38:46 - [DEBUG]     DeviceIdentifier:d7b71e3e-4c40-11cf-7655-0d2f1bc2da35
+05:38:46 - [DEBUG] CreateDevice success
+05:38:46 - [DEBUG]     Adapter:0  DeviceType:1  BehaviorFlags:0x40
+05:38:46 - [DEBUG]     BackBufferWidth:1600  Height:900  Format:21  Count:1
+05:38:46 - [DEBUG]     MultiSampleType:0  Quality:0
+05:38:46 - [DEBUG]     SwapEffect:2  Windowed:0  EnableAutoDepthStencil:1  AutoDepthStencilFormat:75  Flags:0x0
+05:38:46 - [DEBUG]     FullScreen_RefreshRateInHz:60  PresentationInterval:0x80000000
+05:38:46 - [DEBUG] ModuleFileName - C:\Program Files\IrbisRP\GTA\gta_sa.exe 
+05:38:46 - [DEBUG] CapsReport GTACaps9 -  VSVer:0xfffe0300 PSVer:0xffff0300 DeclTypes:0x30f VerProcCaps:0x13b MaxLights:0x8 MaxClips:0x8 TexOpCaps:0x03feffff S30MaxSlots:4096/4096 TexMaxSize:16384/16384/2048 
+05:38:46 - [DEBUG] IDirect3D9 CapsReport Caps9 -  VSVer:0xfffe0300 PSVer:0xffff0300 DeclTypes:0x30f VerProcCaps:0x13b MaxLights:0x8 MaxClips:0x8 TexOpCaps:0x03feffff S30MaxSlots:4096/4096 TexMaxSize:16384/16384/2048 
+05:38:46 - [DEBUG] IDirect3DDevice9 CapsReport Caps9 -  VSVer:0xfffe0300 PSVer:0xffff0300 DeclTypes:0x30f VerProcCaps:0x17b MaxLights:0xa MaxClips:0x8 TexOpCaps:0x03feffff S30MaxSlots:4096/4096 TexMaxSize:16384/16384/2048 
+05:38:46 - [DEBUG] CreateVertexDecl fail: hr:80004005 [0,0,11,0,0,0]
+05:38:46 - [DEBUG] CreateVertexDecl fail: hr:80004005 [0,0,12,0,0,0]
+05:38:46 - [DEBUG] CreateVertexDecl fail: hr:80004005 [0,0,13,0,0,0]
+05:38:46 - [DEBUG] CreateVertexDecl fail: hr:80004005 [0,0,14,0,0,0]
+05:38:46 - [DEBUG] CapsReport - CreateVertexDeclarations MatchesCaps:10/10
+05:38:46 - [DEBUG] DeviceCaps==GTACaps:1  DeviceCaps==D3DCaps9:1
+05:38:46 - [DEBUG] CProxyDirect3DDevice9::Reset
+05:38:46 - [DEBUG] CDirect3DEvents9::OnInvalidate
+05:38:46 - [DEBUG] Reset success
+05:38:46 - [DEBUG] CDirect3DEvents9::OnRestore
+05:38:46 - [DEBUG]     BackBufferWidth:1600  Height:900  Format:21  Count:1
+05:38:46 - [DEBUG]     MultiSampleType:0  Quality:0
+05:38:46 - [DEBUG]     SwapEffect:2  Windowed:0  EnableAutoDepthStencil:1  AutoDepthStencilFormat:75  Flags:0x0
+05:38:46 - [DEBUG]     FullScreen_RefreshRateInHz:60  PresentationInterval:0x00000001
+05:38:46 - [DEBUG]     Adapter:0  DeviceType:1  BehaviorFlags:0x40
+05:38:46 - [DEBUG] InitDirectInput - No Joystick found
+05:38:47 - [DEBUG] Loader - L3 closed
+05:38:47 - [DEBUG] Loader - Wait for game to exit
+05:38:48 - [DEBUG] Direct3D9 hook suspended.
+05:38:48 - [DEBUG] Direct3D9 hook resumed.
+05:38:52 - [DEBUG] Connecting to 217.106.106.107:22052 ...
+05:38:52 - [DEBUG] CProxyDirect3DDevice9::Reset
+05:38:52 - [DEBUG] CDirect3DEvents9::OnInvalidate
+05:38:52 - [DEBUG] Reset success
+05:38:52 - [DEBUG] CDirect3DEvents9::OnRestore
+05:38:52 - [DEBUG]     BackBufferWidth:1600  Height:900  Format:21  Count:1
+05:38:52 - [DEBUG]     MultiSampleType:0  Quality:0
+05:38:52 - [DEBUG]     SwapEffect:2  Windowed:0  EnableAutoDepthStencil:1  AutoDepthStencilFormat:75  Flags:0x0
+05:38:52 - [DEBUG]     FullScreen_RefreshRateInHz:60  PresentationInterval:0x80000000
+05:38:52 - [DEBUG]     Adapter:0  DeviceType:1  BehaviorFlags:0x40
+05:38:56 - [DEBUG] Loading cefweb
+05:38:58 - [DEBUG] CefWeb loaded.
+05:38:58 - [DEBUG] CefWeb initialized.
+05:40:43 - [DEBUG] CCore::~CCore
+05:40:43 - [DEBUG] CCore::DestroyNetwork
+05:40:48 - [DEBUG] CCore::DestroyMultiplayer
+05:40:48 - [DEBUG] CCore::DestroyGame
+05:40:48 - [DEBUG] CCommands::~CCommands
+05:40:48 - [DEBUG] CSetCursorPosHook::~CSetCursorPosHook
+05:40:48 - [DEBUG] CDirect3DHookManager::~CDirect3DHookManager
+05:40:48 - [DEBUG] Direct3D9 hook suspended.
+05:40:48 - [DEBUG] CDirect3DHook9::~CDirect3DHook9
+05:40:48 - [DEBUG] CDirectInputHookManager::~CDirectInputHookManager
+05:40:48 - [DEBUG] CDirectInputHook8::~CDirectInputHook8
+05:40:48 - [DEBUG] CCore::DestroyWeb
+05:40:48 - [DEBUG] CCore::DestroyGUI
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] All glyphs freed
+05:40:49 - [DEBUG] CCore::DestroyXML
+05:40:49 - [DEBUG] CMessageLoopHook::~CMessageLoopHook
+05:40:49 - [DEBUG] Loader - Finishing
+05:40:49 - [DEBUG] DLL_PROCESS_DETACH 00000001

@@ -1,0 +1,12 @@
+<config>
+	<pointData name="Тюнинг ЛС" posX="1041.15625"  posY="-1029.8564453125"  posZ="30.734958648682" type="1"/>
+	<pointData name="Тюнинг СФ" posX="-1904.775390625"  posY="274.6630859375"  posZ="39.895156860352" type="1"/>
+	<pointData name="Установка Тонера" posX="-1575.8310546875"  posY="651.396484375"  posZ="5.7881293296814" type="1"/>
+	<pointData name="Центр Покраски" posX="-2042.513671875"  posY="170.07421875"  posZ="27.946165084839" type="1"/>
+	<pointData name="ЕКХ,Пункт Обмена" posX="1391.2873535156"  posY="769.52893066406"  posZ="9.878125190735" type="1"/>
+	<pointData name="Иномарки" posX="886.3857421875"  posY="-2147.373046875"  posZ="12.114062309265" type="2"/>
+    <pointData name="Гибриды" posX="1669.8190917969"  posY="699.4677734375"  posZ="857.208984375" type="2"/>
+    <pointData name="Lada" posX="-1952.7998046875"  posY="305.7568359375"  posZ="34.46875" type="2"/>
+	<pointData name="Работа грузчика" posX="2176.6999511719"  posY="-2259.63"  posZ="14.8" type="3"/>
+	<pointData name="Работа Бетоновоза" posX="1267"  posY="-1268"  posZ="13.5" type="3"/>
+</config>

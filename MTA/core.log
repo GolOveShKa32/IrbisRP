@@ -1,0 +1,60 @@
+** -- Unhandled exception -- **
+
+Version = 1.5.8-release-20779.0.000
+Time = Sat Jan  2 05:25:25 2021
+Module = C:\Program Files\IrbisRP\mta\game_sa.dll
+Code = 0xC0000005
+Offset = 0x0001002E
+
+EAX=00AB4E94  EBX=000000A2  ECX=1A180020  EDX=00000000  ESI=1A180020
+EDI=00533560  EBP=0028FCF0  ESP=0028FCAC  EIP=6E48002E  FLG=00010216
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+** -- End of unhandled exception -- **
+
+
+** -- Unhandled exception -- **
+
+Version = 1.5.8-release-20779.0.000
+Time = Sat Jan  2 05:28:24 2021
+Module = C:\Program Files\IrbisRP\mta\game_sa.dll
+Code = 0xC0000005
+Offset = 0x0001002E
+
+EAX=00AB4E94  EBX=000000A2  ECX=1B1D0020  EDX=00000000  ESI=1B1D0020
+EDI=00533560  EBP=0028FCF0  ESP=0028FCAC  EIP=6E7D002E  FLG=00010216
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+** -- End of unhandled exception -- **
+
+
+** -- Unhandled exception -- **
+
+Version = 1.5.8-release-20779.0.000
+Time = Sat Jan  2 05:30:14 2021
+Module = C:\Program Files\IrbisRP\mta\game_sa.dll
+Code = 0xC0000005
+Offset = 0x0001002E
+
+EAX=00AB4E94  EBX=000000A2  ECX=1DCA0020  EDX=00000000  ESI=1DCA0020
+EDI=00533560  EBP=0028FCF0  ESP=0028FCAC  EIP=6DF6002E  FLG=00010216
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+** -- End of unhandled exception -- **
+
+
+** -- Unhandled exception -- **
+
+Version = 1.5.8-release-20779.0.000
+Time = Sat Jan  2 05:31:58 2021
+Module = C:\Program Files\IrbisRP\mta\game_sa.dll
+Code = 0xC0000005
+Offset = 0x0001002E
+
+EAX=00AB4E94  EBX=000000A2  ECX=1B2B0020  EDX=00000000  ESI=1B2B0020
+EDI=00533560  EBP=0028FCF0  ESP=0028FCAC  EIP=6E7D002E  FLG=00010216
+CS=0023   DS=002B  SS=002B  ES=002B   FS=0053  GS=002B
+
+** -- End of unhandled exception -- **
+
+
